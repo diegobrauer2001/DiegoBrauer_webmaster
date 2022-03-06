@@ -1,0 +1,58 @@
+h1{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: gold;
+    text-align: center;
+}
+.Grupo1{
+
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 300px;
+    background-color:greenyellow;
+    margin-right: 1000px;
+margin-left: 40px;
+
+}
+
+.Grupo2{
+
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    border: 300px;
+    background-color:blue;
+    margin-right: 1000px;
+    margin-left: 40px;
+}
+
+.Grupo3{
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    margin-right: 1000px;
+    margin-left: 40px;
+}
+
+.Grupo4{
+    color: aqua;
+    background-color: black;
+    font-family: cursive;
+    margin-right: 1000px;
+    margin-left: 40px;
+
+}
+.Grupo5{
+color: black;
+background-color: yellowgreen;
+font-family: fantasy;
+margin-right: 1000px;
+margin-left: 40px;
+}
+
+.Grupo6{
+    color: coral;
+    background-color: cornflowerblue;
+    font-family:initial;
+    margin-right: 1000px;
+    margin-left: 40px;
+}
