@@ -8,10 +8,11 @@ h1{
 
     color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border: 300px;
+    border:2px red solid;
     background-color:greenyellow;
     margin-right: 1000px;
 margin-left: 40px;
+
 
 }
 
@@ -23,6 +24,8 @@ margin-left: 40px;
     background-color:blue;
     margin-right: 1000px;
     margin-left: 40px;
+    border: 3px orange solid;
+    margin-top: 15px;
 }
 
 .Grupo3{
@@ -31,6 +34,8 @@ margin-left: 40px;
     background-color: blueviolet;
     margin-right: 1000px;
     margin-left: 40px;
+    border: 2px black solid;
+    margin-top: 15px;
 }
 
 .Grupo4{
@@ -39,6 +44,8 @@ margin-left: 40px;
     font-family: cursive;
     margin-right: 1000px;
     margin-left: 40px;
+    border: 2px aqua solid;
+   margin-top: 15px;
 
 }
 .Grupo5{
@@ -47,6 +54,8 @@ background-color: yellowgreen;
 font-family: fantasy;
 margin-right: 1000px;
 margin-left: 40px;
+border: 2px black solid;
+margin-top: 15px;
 }
 
 .Grupo6{
@@ -55,4 +64,6 @@ margin-left: 40px;
     font-family:initial;
     margin-right: 1000px;
     margin-left: 40px;
+    border: 2px coral solid;
+    margin-top: 15px;
 }
