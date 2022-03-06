@@ -11,8 +11,8 @@ h1{
     border:2px red solid;
     background-color:greenyellow;
     margin-right: 1000px;
-margin-left: 40px;
-
+    margin-left: 40px;
+    padding-left: 15px;
 
 }
 
@@ -26,6 +26,7 @@ margin-left: 40px;
     margin-left: 40px;
     border: 3px orange solid;
     margin-top: 15px;
+    padding-left: 15px;
 }
 
 .Grupo3{
@@ -36,6 +37,7 @@ margin-left: 40px;
     margin-left: 40px;
     border: 2px black solid;
     margin-top: 15px;
+    padding-left: 15px;
 }
 
 .Grupo4{
@@ -46,6 +48,7 @@ margin-left: 40px;
     margin-left: 40px;
     border: 2px aqua solid;
    margin-top: 15px;
+   padding-left: 15px;
 
 }
 .Grupo5{
@@ -56,6 +59,7 @@ margin-right: 1000px;
 margin-left: 40px;
 border: 2px black solid;
 margin-top: 15px;
+padding-left: 15px;
 }
 
 .Grupo6{
@@ -66,4 +70,5 @@ margin-top: 15px;
     margin-left: 40px;
     border: 2px coral solid;
     margin-top: 15px;
+    padding-left: 15px;
 }
