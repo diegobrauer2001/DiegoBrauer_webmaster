@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Diego Brauer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="cv diego brauer.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <h1 class="G3">Diego Brauer</h1>
+    <img src="imagenes/Goku.jpg" alt="Imagen Goku">
+    <div>
+        <i class="fa-solid fa-cake-candles Icono"></i>
+    </div>
+    <h3 class="G2">Edad: 20 años</h3>
+    <i class="fa-solid fa-map-location-dot Icono"></i>
+    <h3 class="G2">Domicilio: Rafael Castillo</h3>
+    <i class="fa-solid fa-tv Icono"></i>
+    <div class="G2">
+    <h2>Series que me gutan:</h2>
+    <ul>
+        <li>Braking bad</li>
+        <li>Peacemaker</li>
+        <li>Arcane</li>
+    </ul>
+    </div> 
+    <i class="fa-solid fa-clapperboard Icono"></i>
+    <div class="G2">
+    <h2>Peliculas que me gustan:</h2>
+    <ol>
+        <li>Interestellar</li>
+        <li>Volver al futuro</li>
+        <li>Spiderman</li>
+    </ol>
+</div>
+<i class="fa-solid fa-palette Icono"></i>
+<div class="G2">
+    <h2>Colores favoritos:</h2>
+       <ol>
+           <li>Azul</li>
+           <li>Amarillo</li>
+       </ol>
+       </div>
+       <i class="fa-solid fa-basketball Icono"></i>
+       <div class="G2">
+       <h2>Cosas que me gustan hacer:</h2>
+       <p>Salir con mis amigos</p>
+       <p>Aprender nuevas cosas</p>
+       <p>Mirar partidos de basquet</p>
+       </div>
+       <i class="fa-solid fa-guitar Icono"></i>
+       <div class="G2">
+    <h2>Cual es mi cancion favorita:</h2>
+    <p>Mi cancion favorita es la <a href="https://www.youtube.com/watch?v=D9G1VOjN_84" target="blank">siguiente</a></p>
+    </div>
+    <i class="fa-solid fa-address-card Icono"></i>
+    <div class="G2">
+    <h2>Si deseas contactarme llena el siguiente formulario:</h2>
+    </div>
+    <form action="" method="">
+        <div class="form__Input-text">
+        <p>
+            <input type="text" name="Nombre" placeholder="Ingresar nombre">
+        </p>
+        <p>
+            <input type="text" name="Apellido" placeholder="Ingresar apellido">
+        </p>
+        <p>
+            <input type="text" name="Email" placeholder="Ingresar email">
+        </p>
+         </div>
+        <!-- SELECCIONAR GENERO -->
+        <!-- BOTON DE RADIO -->
+        <div class="G2">
+        <label for="Sexo">Sexo</label>
+        <ul>
+            <li>
+                <input type="radio" name="Hombre" value="Hombre">
+                <label>Hombre</label>
+            </li>
+            <li>
+                <input type="radio" name="Mujer" value="Mujer">
+                <label>Mujer</label>
+            </li>
+        
+        </ul>
+    </div>
+        <!-- SELECCIONAR DEPORTE FAVORITO  -->
+        <!-- CUADRADO DE SELECCION  -->
+        <div class="G2">
+        <label >Deporte favorito</label>
+        <ul>
+            
+            <li>
+            <input type="checkbox" name="Deporte favorito[]" value="Futbol" id="Futbol">
+            <label>Futbol</label>
+            </li>
+            <li>
+                <input type="checkbox" name="Deporte favorito[]" value="Basquet" id="Basquet"> 
+                <label >Basquet</label>
+            </li>
+            <li>
+                <input type="checkbox" name="Deporte favorito[]" value="Natacion" id="Natacion">
+                <label>Natacion</label>
+    
+            </li>
+            <li>
+                <input type="checkbox" name="Deporte favorito" value="Otro" id="Otro">
+                <label >Otro</label>
+            </li>
+        </ul>
+    </div>
+        <!-- SELECIONAR COLOR FAVORITO -->
+        <!-- BARRA QUE SE COLAPSA  -->
+        <div class="G2">
+        <p>
+            <label for="Color">Seleccionar color favorito</label>
+            <select name="Color">
+                <option value="...">...</option>
+                <option value="amarillo" style="color: yellow;">amarillo</option>
+                <option value="verde" style="color: green;">verde</option>
+                <option value="rojo" style="color: red;">rojo</option>
+                <option value="violeta" style="color: violet;">violeta</option>
+                <option value="Otro">Otro</option>
+            </select>
+        </p>
+        </div>
+        <div class="form__comentarios">
+        <!-- ENVIAR COMENTARIOS -->
+        <label for="Comentarios">Comentarios</label>
+        <textarea name="Comentarios"></textarea>
+    </div>
+        <!-- ENVIAR FORMULARIO  -->
+        <p>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar"> 
+    </p>
+</body>
+</html>

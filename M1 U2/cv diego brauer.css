@@ -1,0 +1,62 @@
+*{
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+.G2{
+    color:  white;
+    background-color: rgb(101, 101, 199);
+    margin-right: 80%;
+    border-radius: 10px 20px 20px 50px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    box-shadow: 0px 10px 20px rgb(97, 97, 146) ;
+    margin-bottom: 50px;
+    border: 10px coral outset;
+}
+
+.G3{
+    color: white;
+    background: linear-gradient(to left,rgb(45, 45, 88),rgb(101, 101, 199) );
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 10px 50px;
+    border: 3px coral outset;
+}
+img{
+    
+    margin-left: 30%;
+    margin-bottom: 50px;
+    
+}
+.form__Input-text{
+
+    color:  white;
+    background-color: rgb(101, 101, 199);
+    margin-right: 80%;
+    border-radius: 10px;
+    padding-left: 15px;
+    box-shadow: 0px 10px 20px rgb(97, 97, 146) ;
+    margin-bottom: 50px;
+    padding: 10px 10px 10px 50px ;
+    border-radius: 10px 20px 20px 50px;
+    border: 10px coral outset;
+}
+
+.form__comentarios{
+    color:  white;
+    background-color: rgb(101, 101, 199);
+    margin-right: 80%;
+    border-radius: 10px;
+    padding-left: 15px;
+    box-shadow: 0px 10px 20px rgb(97, 97, 146) ;
+    margin-bottom: 50px;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px 20px 20px 50px;
+    padding-bottom: 30px;
+    border: 10px coral outset;
+}
+.Icono{
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
