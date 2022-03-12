@@ -1,7 +1,9 @@
 *{
     font-family: 'Zen Kaku Gothic New', sans-serif;
 }
-
+body{
+    background-color:slategray;
+}
 .G2{
     color:  white;
     background-color: rgb(101, 101, 199);
@@ -26,7 +28,8 @@ img{
     
     display: block;
     margin: auto;
-    
+    border: 10px outset coral ;
+    border-radius: 10px 20px 20px 50px;
 }
 .form__Input-text{
 
